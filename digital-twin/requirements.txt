@@ -1,7 +1,0 @@
-streamlit>=1.31
-requests>=2.31
-pydantic>=2.6
-
-# Optional (may not have wheels for very new Python versions):
-# chromadb>=0.5
-# sentence-transformers>=2.6
